@@ -1,5 +1,3 @@
-Semantic Similarity Comparison Tool
-
 Table of Contents
 Overview
 Features
